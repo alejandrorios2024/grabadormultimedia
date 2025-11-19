@@ -14,6 +14,6 @@ Esta aplicación es para *android* funciona grabando ya sea:
 5. Diana
 
    |id | Imprimir|
-   |-------------|
+   |-------|------|
    |1 | MainView |
    |2 | SecondaryView|
